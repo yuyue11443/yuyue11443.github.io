@@ -13,7 +13,7 @@ I arrive in Caltech, Pasadena CA today! This is my fourth time travel abroad, bu
 
 <div align=center>
 <img src="https://yuyue11443.github.io/images/Jul2022.jpg" 
-     max-width:500px;
+     max-width:300px;
      width:auto;
      height:auto;
      />
