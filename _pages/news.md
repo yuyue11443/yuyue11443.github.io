@@ -9,7 +9,7 @@ author_profile: true
 
 July. 2022
 ======
-Arrived in Caltech, Pasadena CA! This is my fourth time abroad, but the first time abroad alone. I will stay in US till the end of the year as a research intern.
+Arrived in Caltech, Pasadena CA! This is my fourth time travel abroad, but also my first time going abroad alonee. I will stay in US till the end of the year as a VURP (Visiting Undergraduate Research Program) research intern.
 
 ![Jul2022](https://yuyue11443.github.io/images/Jul2022.jpg)
 
