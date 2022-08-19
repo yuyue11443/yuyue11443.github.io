@@ -11,30 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Physics, Peking University, (2019-present, expected June 2023)
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jul. 2022-present: Visiing Undergraduate Research Program in Caltech
+  * Caltech
+  * Research direction: Quantum transducer
+  * Supervisor: Prof. Mohammad Mirhosseini
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Apr. 2021-present: Undergraduate researcher
+  * Peking University
+  * Research direction: Integrate quantum photnoic chip and Quantum algorithm
+  * Supervisor: Prof. Jianwei Wang
+
+* Oct. 2020-Apr. 2021: Undergraduate researcher
+  * Peking University
+  * Research direction: Silicon photonic device inverse design
+  * Supervisor: Prof. Xiaoyong Hu
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: Python, Matlab, Mathematica, LaTex
+* Numerical Simulation: COMSOL
+* Chip design: Design photonic chip with ipkiss (Python package) and Klayout
 
 Publications
 ======
@@ -48,12 +48,5 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
