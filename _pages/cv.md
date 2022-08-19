@@ -10,6 +10,8 @@ redirect_from:
 {% include base_path %}
 Also available as [PDF](http://yuyue11443.github.io/files/CV_Yue_Yu.pdf)
 
+Updated August 18 2022
+
 Education
 ======
 * B.S. in Physics, Peking University, (2019-present, expected June 2023)
