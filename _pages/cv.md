@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+Also available as [PDF](http://yuyue11443.github.io/files/CV_Yue_Yu.pdf)
 
 Education
 ======
@@ -45,15 +46,11 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+See my [research page](https://yuyue11443.github.io/research/).
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+See my [talk page](https://yuyue11443.github.io/talk/).
   
   
 
