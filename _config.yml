@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yue Yu / Yue Yue's website"
+title                    : "Yue Yu / Home"
 title_separator          : "-"
 name                     : &name "Yue Yu"
 description              : &description "Senior in the School of Physics, Peking University, Beijing, China."
