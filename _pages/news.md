@@ -11,6 +11,16 @@ Jul. 2022
 ======
 I arrive in Caltech, Pasadena CA today! This is my fourth time travel abroad, but also my first time going abroad alone. I will stay in US till the end of the year as a VURP (Visiting Undergraduate Research Program) research intern.
 
+This is a regular paragraph.
+
+<table>
+    <tr>
+        <td>Foo</td>
+    </tr>
+</table>
+
+This is another regular paragraph.
+
 <div>
   
 <img src="https://yuyue11443.github.io/images/Jul2022.jpg" alt="Jul2022" style="width:100%;height:auto" title="Jul2022"; algin="middle">
