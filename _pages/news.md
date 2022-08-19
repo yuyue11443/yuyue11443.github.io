@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /news2/
+permalink: /news/
 author_profile: true
 ---
 
@@ -18,7 +18,7 @@ Jun. 2019
 ======
 I graduate from Wuhan Foreign Language School (武汉外国语学校) today!
 
-![Jun2019](https://yuyue11443.github.io/images/Jun2019.jpg#pic_center =300x)
+![Jun2019](https://yuyue11443.github.io/images/Jun2019.jpg#pic_center =100)
   
 Dec. 2018
 ======
