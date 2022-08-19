@@ -1,12 +1,32 @@
 ---
 layout: archive
-title: ""
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-2022
-======
-* ”Simulating Hamiltonian dynamics in a programmable photonic quantum simulator using linear combinations of unitary operations“ **Yue Yu**, Yulin Chi, Chonghao Zhai, Jieshan Huang, Qihuang Gong and Jianwei Wang, Submitted
+{% include base_path %}
 
-* "High-dimensional Quantum Information Processing on Programmable Integrated Photonic Chips" Yulin Chi, **Yue Yu**, Qihuang Gong and Jianwei Wang, Submitted
+## Working Papers
+
+{% for post in site.publications reversed %}
+	{% if post.status == 'workingpaper' %}
+		{% include archive-single.html %}
+	{% endif %}
+{% endfor %}
+
+## Peer-reviewed
+
+{% for post in site.publications reversed %}
+	{% if post.status == 'published' %}
+  		{% include archive-single.html %}
+	{% endif %}
+{% endfor %}
+
+## Other
+
+{% for post in site.publications reversed %}
+	{% if post.status == 'other' %}
+  		{% include archive-single.html %}
+	{% endif %}
+{% endfor %}
