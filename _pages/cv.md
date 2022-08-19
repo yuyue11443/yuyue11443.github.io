@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Physics, Peking University, (2019-present, expected June 2023)
 
-Research experience
+Research Experience
 ======
 * Jul. 2022-present: Visiing Undergraduate Research Program in Caltech
   * Caltech
@@ -30,6 +30,13 @@ Research experience
   * Research direction: Silicon photonic device inverse design
   * Supervisor: Prof. Xiaoyong Hu
   
+Honors and Awards
+======
+* Weiming Physics Scholarship (2019, 2020)
+* Peking University Scholarship (2019)
+* College Scholarship (2020)
+* Gold Medal in the 35th China Physics Olympics final(2019)
+
 Skills
 ======
 * Programming: Python, Matlab, Mathematica, LaTex
