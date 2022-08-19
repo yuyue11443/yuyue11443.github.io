@@ -9,15 +9,6 @@ author_profile: true
 
 <div class="airspace-rich-text">
   <div class="rich-text"><p data-block-key="k2rxd">Nanophotonics devices require an interface between optical fibers and semiconductor chips. Here you see a tapered optical fiber probe that we have fabricated for this purpose.</p><p data-block-key="ft1te"></p>
-
-
-
-<div class="embedded-image richtext-image Middle Small">
-  <div class="embedded-image__wrapper richtext-image Middle Small">
-    <img alt="Tapered optical fiber" class="richtext-image Middle Small" height="209" src="https://caltechsites-prod.s3.amazonaws.com/qubit/images/fibertip_afterHF_50X.max-250x250.png" width="250">
-    
-      <div class="embedded-image__zoom icon icon-fa-search-plus" data-toggle="modal" data-target="#modal-37839"></div>
-    
   </div>
   
 
