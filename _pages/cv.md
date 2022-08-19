@@ -48,11 +48,11 @@ Skills
 
 Publications
 ======
-See my [research page](https://yuyue11443.github.io/research/).
+See my [research page](https://yuyue11443.github.io/publications/).
   
 Talks
 ======
-See my [talk page](https://yuyue11443.github.io/talk/).
+See my [talk page](https://yuyue11443.github.io/talks/).
   
   
 
