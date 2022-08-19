@@ -16,10 +16,10 @@ author_profile: true
 Works in Progress
 ======
 * **A quantum simulation demonstration on integrated quantum photonic chip**
- * with Yunlin Chi and Prof. Jianwei Wang 
+  * with Yunlin Chi and Prof. Jianwei Wang 
 
 * **A review in high-dimensional quantum computing**
- * with Yunlin Chi and Prof. Jianwei Wang 
+  * with Yunlin Chi and Prof. Jianwei Wang 
 
   
   
