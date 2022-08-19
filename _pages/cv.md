@@ -18,17 +18,17 @@ Education
 
 Research Experience
 ======
-* Jul. 2022-present: Visiting Undergraduate Research Program in Caltech
+* Jul. 2022-present: Visiting Undergraduate Research Program (VURP) in Caltech
   * Caltech
   * Research direction: Quantum transducer
   * Supervisor: Prof. [Mohammad Mirhosseini](https://scholar.google.com/citations?user=Zaxr_u0AAAAJ&hl=zh-CN)
 
-* Apr. 2021-present: Undergraduate researcher
+* Apr. 2021-present: Undergraduate Researcher
   * Peking University
   * Research direction: Integrated quantum photnoic chip and Quantum simulation
   * Supervisor: Prof. [Jianwei Wang](https://scholar.google.com/citations?user=K7DXgsoAAAAJ&hl=zh-CN&oi=ao)
 
-* Oct. 2020-Apr. 2021: Undergraduate researcher
+* Oct. 2020-Apr. 2021: Undergraduate Researcher
   * Peking University
   * Research direction: Silicon photonic device inverse design
   * Supervisor: Prof. [Xiaoyong Hu](https://faculty.pku.edu.cn/huxiaoyong/zh_CN/index.htm)
