@@ -7,6 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
+July. 2022
+======
+Arrived in Caltech, Pasadena CA! This is my fourth time abroad, but the first time abroad alone. I will stay in US till the end of the year as a research intern.
+
+![Jul2022](https://yuyue11443.github.io/images/Jul2022.jpg)
 
 Sept. 2019
 ======
