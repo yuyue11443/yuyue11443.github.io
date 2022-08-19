@@ -47,6 +47,10 @@ Skills
 * Machine Learning Algorithms: Neural network, SVM, unsupervised learning, etc.
 * Chip design: Design photonic chip with ipkiss (Python package) and Klayout
 
+Publications
+======
+See my [publications page](https://yuyue11443.github.io/publications/).
+
 Research
 ======
 See my [research page](https://yuyue11443.github.io/research/).
