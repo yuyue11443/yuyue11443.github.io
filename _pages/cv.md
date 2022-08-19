@@ -35,7 +35,7 @@ Research Experience
   
 Fellowships, Honors, and Awards
 ======
-* Weiming Physics Scholarship (2019, 2020)
+* Weiming Physics Scholarship (2019, 2020, 2021)
 * Peking University Scholarship (2019)
 * College Scholarship (2020)
 * Gold Medal in the 35th China Physics Olympics final(2019)
