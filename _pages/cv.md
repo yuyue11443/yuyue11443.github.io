@@ -18,7 +18,7 @@ Education
 
 Research Experience
 ======
-* Jul. 2022-present: Visiing Undergraduate Research Program in Caltech
+* Jul. 2022-present: Visiting Undergraduate Research Program in Caltech
   * Caltech
   * Research direction: Quantum transducer
   * Supervisor: Prof. [Mohammad Mirhosseini](https://scholar.google.com/citations?user=Zaxr_u0AAAAJ&hl=zh-CN)
