@@ -31,7 +31,7 @@ Research Experience
   * Research direction: Silicon photonic device inverse design
   * Supervisor: Prof. Xiaoyong Hu
   
-Honors and Awards
+Fellowships, Honors, and Awards
 ======
 * Weiming Physics Scholarship (2019, 2020)
 * Peking University Scholarship (2019)
