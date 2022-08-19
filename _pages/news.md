@@ -7,10 +7,17 @@ author_profile: true
 
 {% include base_path %}
 
-2022
-======
-* (Submitted) "Simulating Hamiltonian dynamics in a programmable photonic quantum simulator using linear combinations of unitary operations", Yue Yu, Yulin Chi, Chonghao Zhai, Jieshan Huang, Qihuang Gong and Jianwei Wang
-* (Submitted) "High-dimensional Quantum Information Processing on Programmable Integrated Photonic Chips", Yulin Chi, Yue Yu, Qihuang Gong and Jianwei Wang
 
+Sept. 2019
+======
+I join Peking University (北京大学), Beijing, China today! Wish I can enjoy my undergraduate study here!
+![Sept. 2019]([img_src](https://github.com/yuyue11443.github.io/images/Sept.2019.png) "Sept. 2019")
+
+Jun. 2019
+======
+I graduate from Wuhan Foreign Language School (武汉外国语学校) today!
+![Jun. 2019]([img_src](https://github.com/yuyue11443.github.io/images/Jun.2019.png) "Jun. 2019")
   
-  
+Dec. 2018
+======
+My personal website is established!
