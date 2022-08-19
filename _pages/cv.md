@@ -43,7 +43,8 @@ Fellowships, Honors, and Awards
 Skills
 ======
 * Programming: Python, Matlab, Mathematica, LaTex
-* Numerical Simulation: COMSOL
+* Numerical Simulation: Comsol
+* Machine Learning Algorithms: Neural network, SVM, unsupervised learning, etc.
 * Chip design: Design photonic chip with ipkiss (Python package) and Klayout
 
 Publications
