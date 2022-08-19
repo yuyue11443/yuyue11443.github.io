@@ -12,13 +12,13 @@ Sept. 2019
 ======
 I join Peking University (北京大学), Beijing, China today! Wish I can enjoy my undergraduate study here!
 
-![Sept. 2019](https://yuyue11443.github.io/images/Sept.2019.png)
+![Sept. 2019](https://yuyue11443.github.io/images/Sept2019.jpg)
 
 Jun. 2019
 ======
 I graduate from Wuhan Foreign Language School (武汉外国语学校) today!
 
-![Jun. 2019](https://yuyue11443.github.io/images/Jun.2019.png)
+![Jun. 2019](https://yuyue11443.github.io/images/Jun2019.jpg)
   
 Dec. 2018
 ======
