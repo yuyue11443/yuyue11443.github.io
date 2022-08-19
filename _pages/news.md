@@ -16,7 +16,9 @@ Arrived in Caltech, Pasadena CA! This is my fourth time travel abroad, but also 
 Sept. 2019
 ======
 I join Peking University (北京大学), Beijing, China today! Wish I can enjoy my undergraduate study here!
+
 The tall guy on the stage is the dean of our college. He just took office this year and is now giving a speech at the university's opening ceremony.
+
 ![Sept2019](https://yuyue11443.github.io/images/Sept2019.jpg)
 
 Jun. 2019
