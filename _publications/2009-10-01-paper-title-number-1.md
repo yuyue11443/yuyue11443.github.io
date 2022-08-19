@@ -1,15 +1,10 @@
 ---
-title: "Paper Title Number 1"
+title: "Simulating Hamiltonian dynamics in a programmable photonic quantum simulator using linear combinations of unitary operations"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: 
+excerpt: 'Quantum simulation of dynamic evolution of physical and molecular systems requires efficient quantum algorithms. In this work, we revisit the multi-product algorithm that utilizes a linear combination of unitary operations to improve approximated Trotterizations, and we modify the algorithm by introducing the oblivious amplitude amplification. The modified algorithm shows a higher simulation precision and nearly deterministic success probability. We experimentally implement the original and modified multiproduct algorithms in an integrated photonic programmable quantum simulator in silicon, that allows initialization, manipulation and measurement of four-qubit states and a sequence of controlled-unitary gates, to emulate the dynamics of a coupled electron and nuclear spins system. Experimental results show that the multi-product algorithms allow simulating Hamiltonian dynamics with higher precision than conventional Trotterizations, and show that adopting the oblivious amplitude amplification can improve the success probability of algorithms. Our result shows quantum algorithms with a linear combination of unitaries can provide an efficient solution for quantum dynamics simulations.'
+date: 
+venue: 
+paperurl: 
+citation: 
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
