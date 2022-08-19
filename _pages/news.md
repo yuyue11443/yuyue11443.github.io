@@ -13,7 +13,7 @@ I arrive in Caltech, Pasadena CA today! This is my fourth time travel abroad, bu
 
 ![Jul2022](https://yuyue11443.github.io/images/Jul2022.jpg#=150*60)
 
-Dec. 2021
+Dec. 2020
 ======
 Thanks to my great dance partner, I got 1st in Solo and 2nd in Duet in the waltz course! 
 
