@@ -17,7 +17,7 @@ I arrive in Caltech, Pasadena CA today! This is my fourth time travel abroad, bu
 </center>
 
 
-![Jul2022](https://yuyue11443.github.io/images/Jul2022.jpg)
+![Jul2022](https://yuyue11443.github.io/images/Jul2022.jpg=150x60)
 
 Sept. 2019
 ======
