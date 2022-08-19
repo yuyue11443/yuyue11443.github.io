@@ -51,9 +51,6 @@ Research
 ======
 See my [research page](https://yuyue11443.github.io/research/).
   
-Talks and Presentations
-======
-See my [talk page](https://yuyue11443.github.io/talks/).
   
   
 
