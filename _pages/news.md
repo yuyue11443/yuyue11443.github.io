@@ -11,9 +11,13 @@ Jul. 2022
 ======
 I arrive in Caltech, Pasadena CA today! This is my fourth time travel abroad, but also my first time going abroad alone. I will stay in US till the end of the year as a VURP (Visiting Undergraduate Research Program) research intern.
 
-<img src=https://img-blog.csdnimg.cn/20200822014538211.png width=70% />
-
 ![Jul2022](https://yuyue11443.github.io/images/Jul2022.jpg#=150*60)
+
+Dec. 2021
+======
+Thanks to my great dance partner, I got 1st in Solo and 2nd in Duet in the waltz course! 
+
+![Dec2021](https://yuyue11443.github.io/images/Dec2021.jpg)
 
 Sept. 2019
 ======
