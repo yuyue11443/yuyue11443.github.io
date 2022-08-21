@@ -45,7 +45,7 @@ Skills
 * Programming: Python, Matlab, Mathematica, LaTex
 * Numerical Simulation: Comsol
 * Machine Learning Algorithms: Neural network, SVM, unsupervised learning, etc.
-* Chip design: Design photonic chip with ipkiss (Python package) and Klayout
+* Chip design: Design photonic chip with ipkiss (Python) and Klayout
 
 Publications
 ======
