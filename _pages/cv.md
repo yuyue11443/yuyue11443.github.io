@@ -35,17 +35,17 @@ Research Experience
   
 Fellowships, Honors, and Awards
 ======
-* Weiming Physics Scholarship (2019, 2020, 2021)
-* Peking University Scholarship (2019)
-* College Scholarship (2020)
+* Weiming Physics Scholarship (2020, 2021, 2022)
+* Peking University Scholarship (2020, 2022)
+* College Scholarship (2021)
 * Gold Medal in the 35th China Physics Olympics final(2019)
 
 Skills
 ======
 * Programming: Python, Matlab, Mathematica, LaTex
-* Numerical Simulation: Comsol
+* Numerical Simulation: Comsol, Sonnet
 * Machine Learning Algorithms: Neural network, SVM, unsupervised learning, etc.
-* Chip design: Design photonic chip with ipkiss (Python) and Klayout
+* Chip design: Design photonic chip with ipkiss, phidl (Python) and Klayout
 
 Publications
 ======
