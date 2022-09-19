@@ -14,7 +14,7 @@ Updated September 15 2022
 
 Education
 ======
-* B.S. in Physics, Peking University, (2019-present, expected June 2023)
+* B.S. in Physics, Peking University, (Sept. 2019- Jun. 2023 (expected))
 
 Research Experience
 ======
