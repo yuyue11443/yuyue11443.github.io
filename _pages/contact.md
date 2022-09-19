@@ -9,4 +9,4 @@ author_profile: true
 
 **Peking University email**: 1900011443 [at] pku [dot] edu [dot] cn
 
-**Caltech emial**: yyu3 [at] caltech [dot] edu
+**Caltech email**: yyu3 [at] caltech [dot] edu
