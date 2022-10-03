@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 Also available in [PDF](http://yuyue11443.github.io/files/CV_Yue_Yu.pdf)
 
-Updated September 15 2022
+Updated October 3 2022
 
 Education
 ======
