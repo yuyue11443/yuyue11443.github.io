@@ -16,6 +16,11 @@ Education
 ======
 * B.S. in Physics, Peking University, (Sept. 2019- Jun. 2023 (expected))
 
+Research Interest
+======
+* Quantum computing
+* Quangum photonics
+
 Research Experience
 ======
 * Jul. 2022-present: Visiting Undergraduate Research Program (VURP) in Caltech
