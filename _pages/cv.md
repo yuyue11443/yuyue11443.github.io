@@ -40,10 +40,11 @@ Research Experience
   
 Fellowships, Honors, and Awards
 ======
-* Weiming Physics Scholarship (2020, 2021, 2022)
-* Peking University Scholarship (2020, 2022)
-* College Scholarship (2021)
-* Gold Medal in the 35th China Physics Olympics final(2019)
+* Wei Ming Physics Scholarship (2020, 2021, 2022)
+* Wong Lo Kat Peking University Scholarship (2020)
+* Wang Chenyang & Cheng Ya College Scholarship (2021)
+* Sheng Keqi College Scholarship (2022)
+* Gold Medal in the 35th China Physics Olympics Final (2019)
 
 Skills
 ======
