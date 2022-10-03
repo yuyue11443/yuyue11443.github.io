@@ -14,11 +14,11 @@ In peer-review
 
 Works in Progress
 ======
-* **A quantum simulation demonstration on integrated quantum photonic chip**
-  * with Yulin Chi and Prof. Jianwei Wang 
-
-* **A review in high-dimensional quantum computing**
-  * with Yulin Chi and Prof. Jianwei Wang 
-
+* **Simulating Hamiltonian dynamics in a programmable photonic quantum processor using linear combinations of unitary operations**
+  * Author: **Y.Yu**, Y. Chi, J. Huang, C. Zhai, Q. Gong and J. Wang
+  * Submitted to **Nature Computational Science**
+* **High-dimensional Quantum Information Processing on Programmable Integrated Photonic Chips**
+  * Author: Y. Chi, Y.Yu, Q.Gong and J.Wang
+  * Submitted to **Science China Information Science**
   
   
